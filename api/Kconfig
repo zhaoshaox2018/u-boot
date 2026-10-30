@@ -18,5 +18,5 @@ config EXAMPLES
 	help
 	  U-Boot provides an API for standalone applications. Examples are
 	  provided in directory examples/.
-
+ 
 endmenu
